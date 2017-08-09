@@ -1,6 +1,5 @@
 #!/bin/bash
 # Name: Jacob Wilson
-# ONID username/ID: wilsjaco/932765683
 # Due Date: 10/11/16
 # Description: Program 1 is a bash shell script that calculates
 #  the average and median of values provided in a test file. The
